@@ -1,0 +1,15 @@
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  padding: 5%;
+}
+
+.Image-header{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* .board */

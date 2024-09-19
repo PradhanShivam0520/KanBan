@@ -1,0 +1,32 @@
+
+  
+  .user-profile-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1px;
+  }
+  
+  .card-profile-container {
+    display: flex;
+    flex-direction: column;
+    top: 10px !important;
+    align-items: center;
+  }
+  
+  .card-profile-icon {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    /* font-size: 2rem; */
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card-initials {
+    font-weight: bold;
+    font-size: 10px !important;
+  }
